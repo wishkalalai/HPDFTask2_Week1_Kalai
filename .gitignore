@@ -1,0 +1,24 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# expo
+.expo/
+
+Unwanted js files
+App - Copy.js
+App_Screen1.js
+App_Screen3.js
+MenuSample.js
+
+# dependencies
+/node_modules
+/native-base-theme
+
+# misc
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
